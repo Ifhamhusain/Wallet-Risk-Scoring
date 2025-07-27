@@ -7,5 +7,5 @@
 
 ## Quick Start
 ```bash
-git clone [your-repo-url]
+git clone [(https://github.com/Ifhamhusain/Wallet-Risk-Scoring)]
 jupyter notebook risk_scoring.ipynb
